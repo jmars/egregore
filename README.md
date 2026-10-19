@@ -1,5 +1,7 @@
 # Egregore
 
+![Egregore — an occult node network](assets/egregore.jpeg)
+
 An agent you can copy onto a machine.
 
 One file — an Actually Portable Executable built with cosmocc — carrying the harness, its
