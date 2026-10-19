@@ -1,6 +1,6 @@
 # Egregore
 
-![Egregore — an occult node network](assets/egregore.jpeg)
+![Egregore — an occult node network](assets/egregore.png)
 
 An agent you can copy onto a machine.
 
