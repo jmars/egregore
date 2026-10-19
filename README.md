@@ -1,5 +1,7 @@
 # Egregore
 
+NOTE: Code held back for responsible disclosure
+
 ![Egregore — an occult node network](assets/egregore.png)
 
 An agent you can copy onto a machine.
