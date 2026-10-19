@@ -1,6 +1,6 @@
 # Egregore
 
-NOTE: Code held back for responsible disclosure
+NOTE: Code and Cyber-Capable local model held back for responsible disclosure
 
 ![Egregore — an occult node network](assets/egregore.png)
 
