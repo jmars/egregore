@@ -32,5 +32,6 @@ finds the work larger than itself issues the subgoals it cannot reach and places
 
 ## Status
 
-Design, plus the pieces landing upstream in [hax](https://github.com/jmars/hax): the `--json`
-record stream, per-run task id, and enforced budgets.
+Design, plus the pieces landing in our own [hax](https://github.com/jmars/hax) fork — not upstream:
+the `--json` record stream, per-run task id, and enforced budgets. Egregore is built and
+maintained against that fork.
